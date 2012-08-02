@@ -1,12 +1,9 @@
-/*
-@namespace url(http://www.w3.org/1999/xhtml);
 
-@-moz-document domain("thepiratebay.se/"), domain("thepiratebay.org")  {*/
+/* Pirate bay theme - by iplanwebsites.com  
+SRC HERE:  https://github.com/iplanwebsites/piratebay_restyle
 
-/* Pirate bay theme - by iplanwebsites.com  */
-
-/* http://userstyles.org/styles/xxxxx         */
-
+*/
+/*@-moz-document domain("thepiratebay.se/"), domain("thepiratebay.org")  {*/
 
 
 
@@ -161,31 +158,10 @@ table#searchResult td img {display:none;}
 
 
 
-
-
-
-
 /* bye ads */
 #img, #sky-right, #sky-banner, #adsfrm, #adsfrm{display:none !important ; width:0; height:0;}
 
 footer, #foot{padding-top:80px; color:#fff; line-height:2em; border:0;}
 footer a, #foot a{color:#333 !important; text-decoration:none; border:0 !important; background:rgba(255,255,255,0.8);   font-size:14px; padding:5px;  margin-top:10px;}
 footer a:hover, #foot a:hover{text-decoration:none; background:#d2e638; border-radius:2px; border:0;}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
