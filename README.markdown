@@ -16,7 +16,7 @@ It might takes a long time before the folks at TPB fixes the site, and they may 
 
 You can however install this thepiratebay.se stylesheet in your browser to override the default styles:
 
-All infos: http://userstyles.org/
+Download & install here: http://userstyles.org/styles/70513/piratebay-2012
 
 # Preview
 
